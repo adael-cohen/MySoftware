@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cba12e1-b80f-4104-a5d7-7ec0149b8094" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/123.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/123.py" beforeDir="false" afterPath="$PROJECT_DIR$/123.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/123.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            <state relative-caret-position="34">
+              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -73,6 +73,9 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -124,8 +127,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/123.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        <state relative-caret-position="34">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
         </state>
       </provider>
     </entry>
