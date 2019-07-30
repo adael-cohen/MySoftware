@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cba12e1-b80f-4104-a5d7-7ec0149b8094" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/123.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/123.py" beforeDir="false" afterPath="$PROJECT_DIR$/123.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/123.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -64,6 +64,21 @@
             <path>
               <item name="MySoftware" type="b2602c69:ProjectViewProjectNode" />
               <item name="MySoftware" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MySoftware" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="MySoftware" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (MySoftware) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="MySoftware" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (MySoftware) &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -127,8 +142,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/123.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
